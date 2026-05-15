@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196270071643",
+    "project_id": "arewascope-96f3f",
+    "storage_bucket": "arewascope-96f3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196270071643:android:7df267702b858b7835847e",
+        "android_client_info": {
+          "package_name": "com.arewascope.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyH7Lb7LBdZb5Cck_xxyB9WNqSJ49OR-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
